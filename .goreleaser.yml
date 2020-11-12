@@ -3,6 +3,7 @@
 builds:
   - env:
       - CGO_ENABLED=0
+    skip: true
     goos:
       - linux
       - windows

@@ -7,7 +7,6 @@ builds:
       - linux
       - windows
       - darwin
-    skip: true
 archives:
   - format: binary
 checksum:

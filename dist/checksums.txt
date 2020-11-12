@@ -1,5 +1,0 @@
-210203584ad0c1a7bf9ae2285778a2862ea693ea9df50f329b00943aecddee45  go-releaser-test_0.4.0_windows_amd64.exe
-7d36219d6ae764c84d4a1838228da79fe28504f2e824b3b87c4ec7b00ad99863  go-releaser-test_0.4.0_linux_amd64
-8a944051b171c182f4dd57da52374cbc326be07856f3191ad4944135696ba3a9  go-releaser-test_0.4.0_darwin_amd64
-cf7625ee1c7df571fd6d135deb2b46c22e748f0732fbe5a82b9c7fde49185dde  go-releaser-test_0.4.0_linux_386
-f759ba43cb73f80a62bb6e34dbc14c3ba1719cda37adc9d1aa6aee45c630b731  go-releaser-test_0.4.0_windows_386.exe
